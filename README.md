@@ -53,6 +53,9 @@ One of the most cost-effective campaigns was #CoverageMatters, with a low cost p
 
 The #Healthyliving campaign also performed strongly, securing 3,727 signups with a competitive cost per signup (~$1.88) and solid engagement rates.
 
+![Technical Analysis using Pivot tables](images/technical_analysis.jpg)
+
+
 ### Platform Performance
 
 Social Media emerged as Row Health’s most valuable acquisition channel, contributing approximately 7,610 signups with a moderate average cost per signup ($205.65), showcasing wide reach and audience engagement.
@@ -63,6 +66,8 @@ SEO delivered 4,055 signups but averaged a higher acquisition cost ($289.54 per 
 
 Television was the least effective platform, yielding just 494 signups at a high cost per signup ($3.35), indicating poor ROI compared to other channels.
 
+![Platform Performance Analysis using Pivot tables](images/technical_analysis2.jpg)
+
 ### Brand Awareness Metrics
 
 The platform-level click-through rate (CTR) was highest for Email (16.7%), followed by Social Media (8.6%) and SEO (7.3%); TV performed poorly with a 0% CTR.
@@ -71,6 +76,7 @@ Across campaign categories, top performers included Benefit Updates (22.2% CTR),
 
 Campaigns such as Family Coverage Plan and Golden Years Security had very low CTRs (0% and 1.4%, respectively), flagging areas needing strategic review.
 
+![Brand Awareness using Power BI](images/dashboard.jpg)
 ---
 
 ## Recommendations
